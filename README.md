@@ -20,7 +20,7 @@ Long Short-Term Memory.
 <li> The proposed models are tested on 10%, 20%, 30% and 40% test data of the dataset prepared.
 Our model has shown very promising results with high accuracy of 82.35% for the Random Forest model
 implemented on 10% test data. The highest accuracy for the LSTM model having 100 epochs and a batch
-size of 64 implemented on 30% test data was 60.42%. 
+size of 64 implemented on 10% test data was 64.70%. 
 
 ### Results of ML and DL Models
  
