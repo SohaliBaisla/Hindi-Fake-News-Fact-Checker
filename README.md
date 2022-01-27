@@ -18,7 +18,7 @@ the entire dataset using th TF/IDF Vectorizer.
 Linear Regression, K-Nearest Neighbors, Support Vector Machines and Random Forest Search and
 Long Short-Term Memory.
 <li> The proposed models are tested on 10%, 20%, 30% and 40% test data of the dataset prepared.
-Our model has shown very promising results with high accuracy of 82.35% for the Random Forest model
+Our model has shown very promising results with high accuracy of 81.44% for the Random Forest model
 implemented on 10% test data. The highest accuracy for the LSTM model having 100 epochs and a batch
 size of 64 implemented on 10% test data was 64.70%. 
 
